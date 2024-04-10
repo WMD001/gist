@@ -10,5 +10,5 @@
 
 ## [wechat-v3.9.2.23](https://github.com/WMD001/gist/releases/tag/wechat-v3.9.2.23)
 
-## [Clash.for.Windows-0.20.27-win](https://github.com/WMD001/gist/releases/tag/Clash.for.Windows-0.20.27-win)
+## [Clash_tools](https://github.com/WMD001/gist/releases/tag/clash_tools)
 
